@@ -142,7 +142,7 @@ Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça algu
 <br>
 Se possível:<br>
 ⭐️  Star o projeto<br>
-🐛 Encontrar e relatar issues<br>
+🐛 Encontrar e relatar issues <br>
 </p>
 
 
